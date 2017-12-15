@@ -7,7 +7,7 @@
         "url": "https://github.com/rockq-org/nodebb-plugin-wechat-share"
     },
     "dependencies": {
-        "wechat-api": "^1.27.1"
+        "wechat-api": "^1.35.1"
     },
     "keywords": [
         "nodebb",
